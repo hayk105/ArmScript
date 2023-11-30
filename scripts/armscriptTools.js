@@ -1,0 +1,1 @@
+const popup = window.open('../armscriptTest/popup.html', 'popup', 'width=200,height=500');
