@@ -1,3 +1,7 @@
 node_modules
-./scripts/armscript.js
+/scripts/armscript.js
+/scripts/popup.js
+/scripts/armscriptTools.js
+armscriptTest
+/styles/popup.css
 .idea
