@@ -1,7 +1,12 @@
-node_modules
-/scripts/armscript.js
-/scripts/popup.js
-/scripts/armscriptTools.js
+# Ignore node_modules directory
+node_modules/
+
+# Ignore specific files
+./scripts/armscript.js
+./scripts/popup.js
+./scripts/armscriptTools.js
 armscriptTest
 /styles/popup.css
-.idea
+
+# Ignore .idea directory
+.idea/
