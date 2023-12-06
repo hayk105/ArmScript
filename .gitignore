@@ -5,7 +5,7 @@ node_modules/
 /scripts/armscript.js
 /scripts/popup.js
 /scripts/armscriptTools.js
-armscriptTest
+armscriptTest/
 /styles/popup.css
 
 # Ignore .idea directory
