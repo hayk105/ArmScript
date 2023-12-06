@@ -2,9 +2,9 @@
 node_modules/
 
 # Ignore specific files
-./scripts/armscript.js
-./scripts/popup.js
-./scripts/armscriptTools.js
+/scripts/armscript.js
+/scripts/popup.js
+/scripts/armscriptTools.js
 armscriptTest
 /styles/popup.css
 
