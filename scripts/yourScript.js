@@ -1,3 +1,2 @@
-import {grel, element} from "./armscript.js"//import Armscript js
-
-console.log(element.gtnel("span").cnoxner("div"))
+import * as arm from "./armscript.min.js"//import Armscript js
+//example arm.grel.s("hi my name's armscript")
